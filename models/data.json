@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "panel": "HER REGISTRASI",
+        "gambar": "Y1",
+        "tagihan": "Rp0,00",
+        "status": "Lunas" 
+    },
+    {
+        "id": "2",
+        "panel": "SPP SEMESTER 4",
+        "gambar": "Y1",
+        "tagihan": "Rp0,00",
+        "status": "Lunas" 
+    },
+    {
+        "id": "3",
+        "panel": "SPP SEMESTER 4 UTS",
+        "gambar": "Y1",
+        "tagihan": "Rp0,00",
+        "status": "Lunas" 
+    },
+    {
+        "id": "4",
+        "panel": "DPP UTS SEMESTER 4",
+        "gambar": "Y1",
+        "tagihan": "Rp3.100.000,00",
+        "status": "Belum Lunas" 
+    },
+    {
+        "id": "5",
+        "panel": "DPP UAS SEMESTER $",
+        "gambar": "Y1",
+        "tagihan": "Rp3.100.000,00",
+        "status": "Belum Lunas" 
+    },
+    {
+        "id": "6",
+        "panel": "MAGANG 2",
+        "gambar": "Y1",
+        "tagihan": "Rp0,00",
+        "status": "Lunas" 
+    },
+    {
+        "id": "7",
+        "panel": "KEPANITERAAN SEMESTER 4",
+        "gambar": "Y1",
+        "tagihan": "Rp0,00",
+        "status": "Lunas" 
+    },
+    {
+        "id": "8",
+        "panel": "INTERNASIONAL SEMESTER 4",
+        "gambar": "Y1",
+        "tagihan": "Rp0,00",
+        "status": "Lunas" 
+    }
+]
